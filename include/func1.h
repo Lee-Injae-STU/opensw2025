@@ -4,5 +4,7 @@
 #include<stdio.h>
 
 void foo();
+void foofoo();
+void foofoofoo();
 
 #endif
