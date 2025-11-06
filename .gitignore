@@ -3,4 +3,3 @@ obj/
 *.d
 *.o
 *.obj
-Makefile
